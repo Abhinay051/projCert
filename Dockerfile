@@ -1,6 +1,6 @@
 FROM devopsedu/webapp
 
-MAINTAINER Rupam Sinha <ramdittakavi@gmail.com>
+MAINTAINER Abhinay Kaushall <kaushalabhinay051@gmail.com>
 
 #Update Repository
 RUN apt-get update -y
